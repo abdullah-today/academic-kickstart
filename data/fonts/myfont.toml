@@ -1,0 +1,11 @@
+# Font style metadata
+name = "Ubuntu"
+
+# Optional Google font URL
+google_fonts = "Ubuntu"
+
+# Font families
+heading_font = 'Ubuntu'
+body_font = "Source Sans Pro"
+nav_font = "Sans Serif"
+mono_font = "Sans Serif"
